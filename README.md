@@ -321,7 +321,7 @@ Uploads all local branch commits to GitHub
 
 ## Lifecycle of git files
 
-![](/Users/nickpan/Downloads/Image.png)
+![alt text](https://github.com/nickzooot/GitHub-cheat-sheet/blob/main/images/Image.png?raw=true)
 
 **Note:** Synonyms to ***staging area*** are ___index___, ___cache___
 
