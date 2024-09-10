@@ -163,7 +163,10 @@ Branch is a pointer to the last (?) commit!
   $ git branch
   Shows all branches in the project. The current branch is marked by '*'
   ```
-
+* ```bash 
+  $ git branch -a [-r]
+  Shows local and remote [only remote] branches in the project. The current branch is marked by '*'
+  ```
 * ```bash
   $ git branch [branch-name]
   Creates a new branch.
